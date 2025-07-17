@@ -19,7 +19,7 @@ A comprehensive digital ecosystem for managing distributed tasks and resources. 
 
 The repository is organized into a modular structure to separate concerns and facilitate development across different parts of the platform.
 
-```
+
 ./carheyf6
 ├── app/
 │   └── # Main application container or orchestration logic
@@ -43,7 +43,7 @@ The repository is organized into a modular structure to separate concerns and fa
 │   └── # Unit, integration, and end-to-end tests
 └── web/
     └── # Source code for the Web App / Client
-```
+
 
 ### Component Breakdown
 
